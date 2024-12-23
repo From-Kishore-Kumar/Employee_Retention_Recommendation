@@ -2,7 +2,7 @@
 # Employee Retention Recommendation
 
 ## Overview
-This project aims to provide recommendations for improving employee retention. Using data-driven techniques, the notebook explores key factors influencing employee turnover and suggests actionable strategies. This project was done as a Capstone Project for tha Google Careers Advanced Data Analytics Professional Certifications
+This project aims to provide recommendations for improving employee retention. Using data-driven techniques, the notebook explores key factors influencing employee turnover and suggests actionable strategies. This project was done as a Capstone Project for the Google Careers Advanced Data Analytics Professional Certifications
 
 ## Key Features
 - **Data Analysis**: Insights into factors affecting employee retention.
